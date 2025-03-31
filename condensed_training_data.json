@@ -1,0 +1,26 @@
+[
+    {
+        "trackId": "0R3TWpoxAhT3HDXM7tpRzS",
+        "songName": "Ghostride - Crumb",
+        "avg_pace": 5.64,
+        "pace_std": 3.167838379715733,
+        "count": 2,
+        "bpm": 104,
+        "danceability": 0.64,
+        "energy": 0.73,
+        "mood": "psychedelic indie rock",
+        "genre": "Indie Rock/Psychedelic Rock"
+    },
+    {
+        "trackId": "1jecO8NeYLsVWVptITz4c1",
+        "songName": "T\u00fa - maye",
+        "avg_pace": 0.26285714285714284,
+        "pace_std": 1.0833188966932927,
+        "count": 35,
+        "bpm": 104,
+        "danceability": 0.78,
+        "energy": 0.62,
+        "mood": "Romantic",
+        "genre": "Latin Pop"
+    }
+]
