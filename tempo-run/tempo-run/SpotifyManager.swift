@@ -1,5 +1,3 @@
-// FINAL SpotifyManager.swift with full dynamic queueing and auto-playlist detection
-
 import Foundation
 import Combine
 import AuthenticationServices

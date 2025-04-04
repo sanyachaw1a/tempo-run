@@ -1,8 +1,9 @@
 import Foundation
 
 struct Env {
-    static let spotifyClientId = "<YOUR_SPOTIFY_CLIENT_ID>"
-    static let spotifyClientSecret = "<YOUR_SPOTIFY_CLIENT_SECRET>"
-    static let spotifyRedirectUri = "<YOUR_SPOTIFY_REDIRECT_URI>"
-    static let groqApiKey = "<YOUR_GROQ_API_KEY>"
+    static let spotifyClientId = "8e57e7f017e34fcf944c4069fa3385d9"
+    static let spotifyClientSecret = "87fd0aaf388c42fb8b5d01fed836f45a"
+    static let spotifyRedirectUri = "https://sportify.sanyachawla.com/callback.php?platform=spotify"
+    static let groqApiKey = "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"
 }
+
