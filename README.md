@@ -7,6 +7,8 @@ Demo Video: https://drive.google.com/file/d/1dQJG858_CcR8VxXoUSls_MV5Ij5j_-_z/vi
 ## 📜 Overview
 
 Tempo Run connects to your Spotify account, detects your current song, analyzes your running pace, and intelligently queues better songs to help you match your target pace!
+
+
 Tempo Run is more than a playlist manager.It’s the first step toward AI-powered adaptive workouts, where your music reacts in real time to your body’s performance — enhancing your running experience, mood, and results.
 
 ### Features:
