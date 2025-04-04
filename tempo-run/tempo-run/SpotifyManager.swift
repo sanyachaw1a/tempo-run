@@ -29,10 +29,10 @@ class SpotifyManager: NSObject, ObservableObject {
         var bpm: Double?
     }
     
-    private let clientId = "8e57e7f017e34fcf944c4069fa3385d9"
-    private let clientSecret = "87fd0aaf388c42fb8b5d01fed836f45a"
-    private let redirectUri = "https://sportify.sanyachawla.com/callback.php?platform=spotify"
-    private let groqApiKey = "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"
+    private let clientId = Env.spotifyClientId
+    private let clientSecret = Env.spotifyClientSecret
+    private let redirectUri = Env.spotifyRedirectUri
+    private let groqApiKey = Env.groqApiKey
     
     // MARK: - Login
     func login() {
