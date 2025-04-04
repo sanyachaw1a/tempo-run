@@ -1,17 +1,20 @@
-//
-//  tempo_runApp.swift
-//  tempo-run
-//
-//  Created by Sanya Chawla on 3/31/25.
-//
-
 import SwiftUI
+import Firebase
 
 @main
-struct tempo_runApp: App {
+struct TempoRunApp: App {
+    @StateObject var spotifyManager = SpotifyManager()
+
+
+    init() {
+        // FirebaseApp.configure() // Remove this line if you're not using Firebase yet
+    }
+
     var body: some Scene {
         WindowGroup {
             SplashView()
+                .environmentObject(spotifyManager)
         }
     }
 }
+

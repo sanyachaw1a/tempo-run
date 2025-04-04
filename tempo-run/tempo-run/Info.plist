@@ -13,5 +13,7 @@
 			</array>
 		</dict>
 	</array>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Tempo Run needs location access to calculate pace.</string>
 </dict>
 </plist>
