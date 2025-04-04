@@ -32,7 +32,7 @@ Tempo Run connects to your Spotify account, detects your current song, analyzes 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/tempo-run.git
+git clone https://github.com/sanyachaw1a/tempo-run.git
 ```
 
 2. Open the project in Xcode.
