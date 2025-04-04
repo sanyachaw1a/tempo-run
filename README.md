@@ -1,6 +1,7 @@
 # 👟 Tempo Run
 
 An AI-powered iOS app that dynamically adjusts your Spotify queue to help you run faster based on your pace!
+Demo Video: https://drive.google.com/file/d/1dQJG858_CcR8VxXoUSls_MV5Ij5j_-_z/view?usp=drive_link
 
 ## 📜 Overview
 
